@@ -2,15 +2,16 @@
 <h1 align="center">Hi 👋, I'm Bhanuprakash Avadutha</h1>
 <h3 align="center">A passionate Data analyst from India</h3>
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1523313/screenshots/13671653/data-analysis.gif">
-- 🔭 I completed Intership on [E Commerce Sales Analysis with Power Bi](https://drive.google.com/drive/folders/12rlSu6Ugi9Lr2c4BO2Li2SuCxkPABTMM?usp=drive_link)
+
+- 🔭 I completed My 1st Intership on [E Commerce Sales Analysis with Power Bi](https://drive.google.com/drive/folders/12rlSu6Ugi9Lr2c4BO2Li2SuCxkPABTMM?usp=drive_link)
+
+- 👯 I completed My 2nd Intership on [customer churn analysis](https://drive.google.com/drive/folders/1hniV08zFof0KPCOxsGoNRvqTATZg5rIc?usp=drive_link)
 
 - 🌱 I’m currently learning **Python libraries to understand deeply**
 
-- 👯 I completed Intership on [customer churn analysis](https://drive.google.com/drive/folders/1hniV08zFof0KPCOxsGoNRvqTATZg5rIc?usp=drive_link)
-
 - 🤝 I’m looking for enhancing my skills in ls **Data analysis**
 
-- 💬 Ask me about **Python, Power Bi, SQL**
+- 💬 Ask me about **Python, Power Bi, SQL, pandas, matplotlib, plotly**
 
 - 📫 How to reach me **avaduthabhanuprakash1@gmail.com**
 
