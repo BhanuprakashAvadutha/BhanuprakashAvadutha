@@ -1,11 +1,7 @@
 ![logo](https://github.com/BhanuprakashAvadutha/BhanuprakashAvadutha/blob/main/Green%20Professional%20Gamer%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Bhanuprakash Avadutha</h1>
 <h3 align="center">A passionate Data analyst from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhanuprakashavadutha&label=Profile%20views&color=0e75b6&style=flat" alt="bhanuprakashavadutha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhanuprakashavadutha" alt="bhanuprakashavadutha" /></a> </p>
-
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1523313/screenshots/13671653/data-analysis.gif">
 - 🔭 I completed Intership on [E Commerce Sales Analysis with Power Bi](https://drive.google.com/drive/folders/12rlSu6Ugi9Lr2c4BO2Li2SuCxkPABTMM?usp=drive_link)
 
 - 🌱 I’m currently learning **Python libraries to understand deeply**
@@ -31,7 +27,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhanuprakashavadutha&show_icons=true&locale=en&layout=compact" alt="bhanuprakashavadutha" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhanuprakashavadutha&show_icons=true&locale=en" alt="bhanuprakashavadutha" /></p>
 
