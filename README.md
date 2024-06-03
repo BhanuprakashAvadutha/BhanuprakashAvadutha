@@ -1,4 +1,4 @@
-
+![logo](https://github.com/BhanuprakashAvadutha/BhanuprakashAvadutha/blob/main/Green%20Professional%20Gamer%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Bhanuprakash Avadutha</h1>
 <h3 align="center">A passionate Data analyst from India</h3>
 
