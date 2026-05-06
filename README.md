@@ -1,31 +1,46 @@
-![logo](https://github.com/BhanuprakashAvadutha/BhanuprakashAvadutha/blob/main/Green%20Professional%20Gamer%20LinkedIn%20Banner%20(1).png)
-<h1 align="center">Hi 👋, I'm Bhanuprakash Avadutha</h1>
-<h3 align="center">A passionate Data analyst from India</h3>
-<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1523313/screenshots/13671653/data-analysis.gif">
+# Bhanuprakash Avadutha
 
-- 🔭 I completed My 1st Intership on [E Commerce Sales Analysis with Power Bi](https://drive.google.com/drive/folders/12rlSu6Ugi9Lr2c4BO2Li2SuCxkPABTMM?usp=drive_link)
+**Data Engineer · Automation Builder · Hyderabad, India**
 
-- 👯 I completed My 2nd Intership on [customer churn analysis](https://drive.google.com/drive/folders/1hniV08zFof0KPCOxsGoNRvqTATZg5rIc?usp=drive_link)
+I build data pipelines, automation systems, and AI-powered tools for Indian financial firms. My edge: I understand the business problem before I touch code, and I use AI tooling to ship production systems fast.
 
-- 🌱 I’m currently learning **Python libraries to understand deeply**
+Currently at **Sampadha Research Financial Limited** (SEBI-registered), where I've shipped 8 production systems replacing thousands of hours of manual work.
 
-- 🤝 I’m looking for enhancing my skills in ls **Data analysis**
+---
 
-- 💬 Ask me about **Python, Power Bi, SQL, pandas, matplotlib, plotly**
+## Production Systems
 
-- 📫 How to reach me **avaduthabhanuprakash1@gmail.com**
+| Project | Stack | Impact |
+|---------|-------|--------|
+| [indian-financial-news-pipeline](https://github.com/BhanuprakashAvadutha/indian-financial-news-pipeline) | Python · GCP · Airflow · BigQuery · Terraform | Replaced 4–5hr daily manual news research |
+| [trendlyne-scraper-toolkit](https://github.com/BhanuprakashAvadutha/trendlyne-scraper-toolkit) | Python · Pydantic · BigQuery · GCS | 54,000+ records scraped, zero data contamination |
+| [basket-csv-generator](https://github.com/BhanuprakashAvadutha/basket-csv-generator) | Next.js · Claude API · TypeScript · Zod | Broker CSV generation from plain English, 0 upload errors |
+| [dax-expert-assistant-firebase](https://github.com/BhanuprakashAvadutha/dax-expert-assistant-firebase) | Claude API · Firebase · HTML | Power BI DAX assistant deployed on Firebase |
+| [oci-free-instance-grabber](https://github.com/BhanuprakashAvadutha/oci-free-instance-grabber) | GitHub Actions · OCI CLI · Python | Auto-provisions Oracle Cloud ARM instances via cron |
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OGUmn8U-Gd4yw-0VkMWEFGR0rEoPXF72/view?usp=drivesdk](https://drive.google.com/file/d/1OGUmn8U-Gd4yw-0VkMWEFGR0rEoPXF72/view?usp=drivesdk)
+## Analytics & SQL
 
-- ⚡ Fun fact **I'm dedicated on work to complete it within time frame**
+| Project | Stack | Focus |
+|---------|-------|-------|
+| [Healthcare-Analytics](https://github.com/BhanuprakashAvadutha/Healthcare-Analytics) | SQL · SSMS | Schema design, window functions, joins |
+| [Telco_customer_churn_analysis](https://github.com/BhanuprakashAvadutha/Telco_customer_churn_analysis) | Power BI · Python · pandas | Churn prediction dashboard |
+| [customer-sales-analysis](https://github.com/BhanuprakashAvadutha/customer-sales-analysis) | Power BI · Excel | E-commerce sales analytics |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@bhanupr96344574" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@bhanupr96344574" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bhanuprakash avadutha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhanuprakash avadutha" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+## Tech Stack
 
+**Data & Cloud:** Python · GCP · BigQuery · Cloud Storage · Cloud Scheduler · Airflow · Terraform  
+**AI/LLM:** Anthropic Claude API · Prompt Engineering · Structured Outputs · MCP  
+**Web:** Next.js · TypeScript · Supabase · Firebase · Vercel  
+**Analytics:** Power BI · SQL · pandas · Pydantic  
+**Domain:** SEBI compliance · NSE/BSE data · Broker integrations · Trendlyne API
 
+---
+
+## Background
+
+MCA — Satavahana University, 2024  
+📍 Hyderabad · Open to remote  
+📧 avaduthabhanuprakash1@gmail.com  
+🔗 [Portfolio](https://bhanuprakashavadutha.github.io/a/) · [LinkedIn](https://linkedin.com/in/bhanuprakash-avadutha)
